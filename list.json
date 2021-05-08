@@ -1,18 +1,21 @@
 {
 	"games": [{
-			"id": "1001",
+			
 			"name": "Game number 1",
 			"image": "https://i.pinimg.com/originals/77/ab/17/77ab17c3148649e56f89a31d9494dab7.jpg"
+			
 		},
 		{
-			"id": "1002",
+			
 			"name": "Game girl",
 			"image": "https://i.ytimg.com/vi/47LU6BJxVxA/maxresdefault.jpg"
+			
 		},
 		{
-			"id": "1003",
+			
 			"name": "GAZ 24",
 			"image": "https://wroom.ru/i/news/10912img2.jpg"
+			
 		}
 	]
 }
