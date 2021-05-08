@@ -2,18 +2,21 @@
 	"games": [{
 			
 			"name": "Game number 1",
+			"genre": "fuck",
 			"image": "https://i.pinimg.com/originals/77/ab/17/77ab17c3148649e56f89a31d9494dab7.jpg"
 			
 		},
 		{
 			
 			"name": "Game girl",
+			"genre": "you",
 			"image": "https://i.ytimg.com/vi/47LU6BJxVxA/maxresdefault.jpg"
 			
 		},
 		{
 			
-			"name": "GAZ 24",
+			"name": "bitch",
+			"genre": "fuck",
 			"image": "https://wroom.ru/i/news/10912img2.jpg"
 			
 		}
