@@ -1,124 +1,41 @@
 {
 	"games": [{
-			"id": "1001",
+	        "genre": "корч",
+	        "spleetscreen":false
+	        "paid":false
+	 	    "online":false
 			"name": "Game number 1",
 			"image": "https://i.pinimg.com/originals/77/ab/17/77ab17c3148649e56f89a31d9494dab7.jpg"
 		},
 		{
-			"id": "1002",
+		    "genre": "retro",
+		    "paid":true
+			"spleetscreen":false
+			"online":false
 			"name": "Game girl",
 			"image": "https://i.ytimg.com/vi/47LU6BJxVxA/maxresdefault.jpg"
 		},
 				{
-			"id": "1002",
+			"genre": "bitch",
+			"paid":true
+			"spleetscreen":true
+			"online":false
 			"name": "Anime",
 			"image": "https://play-lh.googleusercontent.com/BSro1b_l9VtZLGaGCqgwBSItp794KmZOFGRm5lhro55CluoMQf1fiCYlN-9jqbb2mNo=s360-rw"
 		},
 				{
-			"id": "1002",
-			"name": "Fucker",
-			"image": "https://play-lh.googleusercontent.com/6-XUO_11uN_PvB_0hviBwlCmHaTgfWLnwlwS1cdQt4WGsJA672lV8GRce3VMlhoq8A=s360-rw"
-		},{
-			"id": "1002",
-			"name": "Game girl",
-			"image": "https://i.ytimg.com/vi/47LU6BJxVxA/maxresdefault.jpg"
-		},
-				{
-			"id": "1002",
-			"name": "Anime",
-			"image": "https://play-lh.googleusercontent.com/BSro1b_l9VtZLGaGCqgwBSItp794KmZOFGRm5lhro55CluoMQf1fiCYlN-9jqbb2mNo=s360-rw"
-		},
-				{
-			"id": "1002",
-			"name": "Fucker",
-			"image": "https://play-lh.googleusercontent.com/6-XUO_11uN_PvB_0hviBwlCmHaTgfWLnwlwS1cdQt4WGsJA672lV8GRce3VMlhoq8A=s360-rw"
-		},{
-			"id": "1002",
-			"name": "Game girl",
-			"image": "https://i.ytimg.com/vi/47LU6BJxVxA/maxresdefault.jpg"
-		},
-				{
-			"id": "1002",
-			"name": "Anime",
-			"image": "https://play-lh.googleusercontent.com/BSro1b_l9VtZLGaGCqgwBSItp794KmZOFGRm5lhro55CluoMQf1fiCYlN-9jqbb2mNo=s360-rw"
-		},
-				{
-			"id": "1002",
-			"name": "Fucker",
-			"image": "https://play-lh.googleusercontent.com/6-XUO_11uN_PvB_0hviBwlCmHaTgfWLnwlwS1cdQt4WGsJA672lV8GRce3VMlhoq8A=s360-rw"
-		},{
-			"id": "1002",
-			"name": "Game girl",
-			"image": "https://i.ytimg.com/vi/47LU6BJxVxA/maxresdefault.jpg"
-		},
-				{
-			"id": "1002",
-			"name": "Anime",
-			"image": "https://play-lh.googleusercontent.com/BSro1b_l9VtZLGaGCqgwBSItp794KmZOFGRm5lhro55CluoMQf1fiCYlN-9jqbb2mNo=s360-rw"
-		},
-				{
-			"id": "1002",
-			"name": "Fucker",
-			"image": "https://play-lh.googleusercontent.com/6-XUO_11uN_PvB_0hviBwlCmHaTgfWLnwlwS1cdQt4WGsJA672lV8GRce3VMlhoq8A=s360-rw"
-		},{
-			"id": "1002",
-			"name": "Game girl",
-			"image": "https://i.ytimg.com/vi/47LU6BJxVxA/maxresdefault.jpg"
-		},
-				{
-			"id": "1002",
-			"name": "Anime",
-			"image": "https://play-lh.googleusercontent.com/BSro1b_l9VtZLGaGCqgwBSItp794KmZOFGRm5lhro55CluoMQf1fiCYlN-9jqbb2mNo=s360-rw"
-		},
-				{
-			"id": "1002",
-			"name": "Fucker",
-			"image": "https://play-lh.googleusercontent.com/6-XUO_11uN_PvB_0hviBwlCmHaTgfWLnwlwS1cdQt4WGsJA672lV8GRce3VMlhoq8A=s360-rw"
-		},{
-			"id": "1002",
-			"name": "Game girl",
-			"image": "https://i.ytimg.com/vi/47LU6BJxVxA/maxresdefault.jpg"
-		},
-				{
-			"id": "1002",
-			"name": "Anime",
-			"image": "https://play-lh.googleusercontent.com/BSro1b_l9VtZLGaGCqgwBSItp794KmZOFGRm5lhro55CluoMQf1fiCYlN-9jqbb2mNo=s360-rw"
-		},
-				{
-			"id": "1002",
-			"name": "Fucker",
-			"image": "https://play-lh.googleusercontent.com/6-XUO_11uN_PvB_0hviBwlCmHaTgfWLnwlwS1cdQt4WGsJA672lV8GRce3VMlhoq8A=s360-rw"
-		},{
-			"id": "1002",
-			"name": "Game girl",
-			"image": "https://i.ytimg.com/vi/47LU6BJxVxA/maxresdefault.jpg"
-		},
-				{
-			"id": "1002",
-			"name": "Anime",
-			"image": "https://play-lh.googleusercontent.com/BSro1b_l9VtZLGaGCqgwBSItp794KmZOFGRm5lhro55CluoMQf1fiCYlN-9jqbb2mNo=s360-rw"
-		},
-				{
-			"id": "1002",
-			"name": "Fucker",
-			"image": "https://play-lh.googleusercontent.com/6-XUO_11uN_PvB_0hviBwlCmHaTgfWLnwlwS1cdQt4WGsJA672lV8GRce3VMlhoq8A=s360-rw"
-		},{
-			"id": "1002",
-			"name": "Game girl",
-			"image": "https://i.ytimg.com/vi/47LU6BJxVxA/maxresdefault.jpg"
-		},
-				{
-			"id": "1002",
-			"name": "Anime",
-			"image": "https://play-lh.googleusercontent.com/BSro1b_l9VtZLGaGCqgwBSItp794KmZOFGRm5lhro55CluoMQf1fiCYlN-9jqbb2mNo=s360-rw"
-		},
-				{
-			"id": "1002",
+			"genre": "шн",
+			"spleetscreen":true	
+			"paid":true
+			"online":false
 			"name": "Fucker",
 			"image": "https://play-lh.googleusercontent.com/6-XUO_11uN_PvB_0hviBwlCmHaTgfWLnwlwS1cdQt4WGsJA672lV8GRce3VMlhoq8A=s360-rw"
 		},
 		{
-			"id": "1003",
+		    "genre": "корч",
+		    "spleetscreen":true
+			"paid":true
+			"online":true
 			"name": "GAZ 24",
 			"image": "https://wroom.ru/i/news/10912img2.jpg"
 		}
