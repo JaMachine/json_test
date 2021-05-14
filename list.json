@@ -1,116 +1,101 @@
 {
-	"games": [{
-			
-			"name": "Aces of the Luftwaffe",
-			"genre": "Arcade",
-			"paid": "t",
-			"image": "https://play-lh.googleusercontent.com/a2ykrO9HWcV67Jt7ZLPaYRycc_zNoD6KY1wALo0FfuKBDa-KFFc0jwt1V9rQXbgyBZE=s360-rw",
-			"url": "https://play.google.com/store/apps/details?id=com.hg.aotlpremium"
-			
-		},
-		{
-			
-			"name": "AirAttack 2",
-			"genre": "Arcade",
-			"paid": "f",
-			"image": "https://play-lh.googleusercontent.com/qvQ7LpXRzBBdmHg5QNpQTe6MIfjfnEzmSVjnomfk_6jWjjLjrWd53jX78L7oZLT8rG0=s360",
-			"url": "https://play.google.com/store/apps/details?id=com.ArtInGames.AirAttack2f"
-			
-		},		{
-			
-			"name": "Alto's Adventure",
-			"genre": "Action",
-			"paid": "f",
-			"image": "https://play-lh.googleusercontent.com/gxylrEt14mAOWhHLJbuHg7lIa3h8t5tLbXcCZL_ox437C4UVO7Euk9rj6fjGLUdnTWw=s360",
-			"url": "https://play.google.com/store/apps/details?id=com.noodlecake.altosadventure"
-			
-		},
-		{
-			
-			"name": "Alto's Odyssey",
-			"genre": "Action",
-			"paid": "f",
-			"image": "https://play-lh.googleusercontent.com/l4PdRz_ZURsgohnf9z-4uN2eLgnDTAZXPfcQVo7gNoqR4rYqI0Ed2BQVH51sa_KDNUU=s360",
-			"url": "https://play.google.com/store/apps/details?id=com.noodlecake.altosodyssey"
-			
-		},
-				{
-			
-			"name": "Animal Super Squad",
-			"genre": "Adventure",
-			"paid": "t",
-			"image": "https://play-lh.googleusercontent.com/vw96NF_D4477kM9RQIfO7Adkt9v0ZqXcblnAKY5sUl9N1vWQ-gW2mb2GqJOeHcG2bu0=s360",
-			"url": "https://play.google.com/store/apps/details?id=com.DoubleMoose.AnimalSuperSquad"
-			
-		},	{
-			
-			"name": "Arkagamepad",
-			"genre": "Action",
-			"paid": "f",
-			"image": "https://play-lh.googleusercontent.com/Av-UOo5j0GC1nhNmsPLP1KmgUHCufNBmctBd0fy76ISh-A3BUcEq4yCjscKTZwVlU58=s360",
-			"url": "https://play.google.com/store/apps/details?id=com.RealPlayStudio.ArkaGamepad"
-			
-		},	{
-			
-			"name": "Arthur & Aziliz",
-			"genre": "Action & Adventure",
-			"paid": "f",
-			"image": "https://play-lh.googleusercontent.com/hBZI6CtTsUc_6lJ0T71mUWN0aWXM98nrCNCJYsvbn7Jy09WFp51vlGYCKSnaqQiGcg=s360",
-			"url": "https://play.google.com/store/apps/details?id=net.hieroglyphe.arthur"
-			
-		},		{
-			
-			"name": "Bermuda Dash",
-			"genre": "Arcade",
-			"paid": "f",
-			"image": "https://play-lh.googleusercontent.com/RmxK9CzSRnWyIB2r-bI-2Uifntu1V8wHekfxfQTFy-tJoYU6ATNzlnwTKhDILqvGNyAt=s360",
-			"url": "https://play.google.com/store/apps/details?id=com.ci.bermudadash"
-			
-		},
-		{
-			
-			"name": "Bomb Hunters",
-			"genre": "Arcade",
-			"paid": "f",
-			"image": "https://play-lh.googleusercontent.com/dc0EQv20M-vX4TxFQJC6DSacdSL8hr17iZcddZN6hI7-tmbSyKio6z0Qr8NIu1iP7g=s360",
-			"url": "https://play.google.com/store/apps/details?id=com.craneballs.bombhunter"
-			
-		},	{
-			
-			"name": "Black Paradox",
-			"genre": "Arcade",
-			"paid": "t",
-			"image": "https://play-lh.googleusercontent.com/q3o8vO0_ep4js2GlSNYGcLMEEIcP413CIBNx4gSIkC6eCLFXgVF_RE8kRBdBxlEaBoJo=s360",
-			"url": "https://play.google.com/store/apps/details?id=com.fantasticostudio.blackparadox"
-			
-		},		
-
-               {
-			
-			"name": "Atomic Super Lander",
-			"genre": "Arcade",
-			"paid": "f",
-			"image": "https://play-lh.googleusercontent.com/cWNo3V2NKyfbEm7NSltfaL143XJEWiREd89tEVwTmTO8yFcuKgkhcyQmtDV1c0fIpMY=s360",
-			"url": "https://play.google.com/store/apps/details?id=com.crescentmoongames.atomicsuperlander"
-			
-		},			
-		        {
-			
-			"name": "Arcade Mayhem Shooter",
-			"genre": "Arcade",
-			"paid": "f",
-			"image": "https://play-lh.googleusercontent.com/AYCU4HUbPcbQOpR0PS1xVg3sa-XG9mdxRGyPtSKSc1xkWXDQ_mEcJ-bcMcv-KpVpV3YD=s360",
-			"url": "https://play.google.com/store/apps/details?id=air.com.gameever.juanitoarcade"
-			
-		},
-				{
-			
-			"name": "Another World",
-			"genre": "Adventure",
-			"paid": "t",
-			"image": "https://play-lh.googleusercontent.com/VgD5VexJhqhVdT2l1ZFh9SjZmnCPZjiWhrV9H0S20w5rlcQ8BglJTXHLGj9b7IFPOw=s360",
-			"url": "https://play.google.com/store/apps/details?id=com.dotemu.anotherworld"
-			
-		}
-	]
+  "games": [
+    {
+      "name": "Aces of the Luftwaffe",
+      "genre": "Arcade",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/a2ykrO9HWcV67Jt7ZLPaYRycc_zNoD6KY1wALo0FfuKBDa-KFFc0jwt1V9rQXbgyBZE=s360-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.hg.aotlpremium"
+    },
+    {
+      "name": "AirAttack 2",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/qvQ7LpXRzBBdmHg5QNpQTe6MIfjfnEzmSVjnomfk_6jWjjLjrWd53jX78L7oZLT8rG0=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.ArtInGames.AirAttack2f"
+    },
+    {
+      "name": "Alto's Adventure",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/gxylrEt14mAOWhHLJbuHg7lIa3h8t5tLbXcCZL_ox437C4UVO7Euk9rj6fjGLUdnTWw=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.altosadventure"
+    },
+    {
+      "name": "Alto's Odyssey",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/l4PdRz_ZURsgohnf9z-4uN2eLgnDTAZXPfcQVo7gNoqR4rYqI0Ed2BQVH51sa_KDNUU=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.altosodyssey"
+    },
+    {
+      "name": "Animal Super Squad",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/vw96NF_D4477kM9RQIfO7Adkt9v0ZqXcblnAKY5sUl9N1vWQ-gW2mb2GqJOeHcG2bu0=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.DoubleMoose.AnimalSuperSquad"
+    },
+    {
+      "name": "Arkagamepad",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/Av-UOo5j0GC1nhNmsPLP1KmgUHCufNBmctBd0fy76ISh-A3BUcEq4yCjscKTZwVlU58=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.RealPlayStudio.ArkaGamepad"
+    },
+    {
+      "name": "Arthur & Aziliz",
+      "genre": "Action & Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/hBZI6CtTsUc_6lJ0T71mUWN0aWXM98nrCNCJYsvbn7Jy09WFp51vlGYCKSnaqQiGcg=s360",
+      "url": "https://play.google.com/store/apps/details?id=net.hieroglyphe.arthur"
+    },
+    {
+      "name": "Bermuda Dash",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/RmxK9CzSRnWyIB2r-bI-2Uifntu1V8wHekfxfQTFy-tJoYU6ATNzlnwTKhDILqvGNyAt=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.ci.bermudadash"
+    },
+    {
+      "name": "Bomb Hunters",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/dc0EQv20M-vX4TxFQJC6DSacdSL8hr17iZcddZN6hI7-tmbSyKio6z0Qr8NIu1iP7g=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.craneballs.bombhunter"
+    },
+    {
+      "name": "Black Paradox",
+      "genre": "Arcade",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/q3o8vO0_ep4js2GlSNYGcLMEEIcP413CIBNx4gSIkC6eCLFXgVF_RE8kRBdBxlEaBoJo=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.fantasticostudio.blackparadox"
+    },
+    {
+      "name": "Atomic Super Lander",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/cWNo3V2NKyfbEm7NSltfaL143XJEWiREd89tEVwTmTO8yFcuKgkhcyQmtDV1c0fIpMY=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.crescentmoongames.atomicsuperlander"
+    },    {
+      "name": "Boulder Dash",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/TRbH4djFRg_0L4rMgQh9sIhb0wXq7B2OuWAt4N2EczNzw6v6l32qaQW8OIAAF_AcDxEZ=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.tapstargames.boulderdash30"
+    },
+    {
+      "name": "Arcade Mayhem Shooter",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/AYCU4HUbPcbQOpR0PS1xVg3sa-XG9mdxRGyPtSKSc1xkWXDQ_mEcJ-bcMcv-KpVpV3YD=s360",
+      "url": "https://play.google.com/store/apps/details?id=air.com.gameever.juanitoarcade"
+    },
+    {
+      "name": "Another World",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/VgD5VexJhqhVdT2l1ZFh9SjZmnCPZjiWhrV9H0S20w5rlcQ8BglJTXHLGj9b7IFPOw=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.dotemu.anotherworld"
+    }
+  ]
 }
