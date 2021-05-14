@@ -42,7 +42,34 @@
 			"image": "https://play-lh.googleusercontent.com/vw96NF_D4477kM9RQIfO7Adkt9v0ZqXcblnAKY5sUl9N1vWQ-gW2mb2GqJOeHcG2bu0=s360",
 			"url": "https://play.google.com/store/apps/details?id=com.DoubleMoose.AnimalSuperSquad"
 			
-		},				{
+		},	{
+			
+			"name": "Arkagamepad",
+			"genre": "Action",
+			"paid": "f",
+			"image": "https://play-lh.googleusercontent.com/Av-UOo5j0GC1nhNmsPLP1KmgUHCufNBmctBd0fy76ISh-A3BUcEq4yCjscKTZwVlU58=s360",
+			"url": "https://play.google.com/store/apps/details?id=com.RealPlayStudio.ArkaGamepad"
+			
+		},	{
+			
+			"name": "Arthur & Aziliz",
+			"genre": "Action & Adventure",
+			"paid": "f",
+			"image": "https://play-lh.googleusercontent.com/hBZI6CtTsUc_6lJ0T71mUWN0aWXM98nrCNCJYsvbn7Jy09WFp51vlGYCKSnaqQiGcg=s360",
+			"url": "https://play.google.com/store/apps/details?id=net.hieroglyphe.arthur"
+			
+		},		
+
+{
+			
+			"name": "Atomic Super Lander",
+			"genre": "Arcade",
+			"paid": "f",
+			"image": "https://play-lh.googleusercontent.com/cWNo3V2NKyfbEm7NSltfaL143XJEWiREd89tEVwTmTO8yFcuKgkhcyQmtDV1c0fIpMY=s360",
+			"url": "https://play.google.com/store/apps/details?id=com.crescentmoongames.atomicsuperlander"
+			
+		},			
+		        {
 			
 			"name": "Arcade Mayhem Shooter",
 			"genre": "Arcade",
