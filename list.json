@@ -84,24 +84,21 @@
       "image": "https://play-lh.googleusercontent.com/cWNo3V2NKyfbEm7NSltfaL143XJEWiREd89tEVwTmTO8yFcuKgkhcyQmtDV1c0fIpMY=s360",
       "url": "https://play.google.com/store/apps/details?id=com.crescentmoongames.atomicsuperlander"
     },
-	
-	    {
+    {
       "name": "Canyon Capers",
       "genre": "Arcade",
       "paid": "t",
       "image": "https://play-lh.googleusercontent.com/J1X8Sp-bO5G2RoOtAVc0toIRg-pPc_sZNgbyrP12iJAoKLc_fBivscJaGiOvd98qnA=s360",
       "url": "https://play.google.com/store/apps/details?id=com.crazymoogames.CanyonCapers#"
     },
-	
-	    {
+    {
       "name": "Bud Spencer & Terence Hill - Slaps And Beans",
       "genre": "Arcade",
       "paid": "t",
       "image": "https://play-lh.googleusercontent.com/wQiwsKuq74fVC5NJ2c-HpCmbp7DjmEgrKpzuCx-GAOJKPa5abiNeYq-ou5bqOeQmcuY=s360",
       "url": "https://play.google.com/store/apps/details?id=com.trinityteam.slapsandbeans"
     },
-	
-		    {
+    {
       "name": "Castle of Illusion",
       "genre": "Adventure",
       "paid": "t",
@@ -122,7 +119,17 @@
       "image": "https://play-lh.googleusercontent.com/AYCU4HUbPcbQOpR0PS1xVg3sa-XG9mdxRGyPtSKSc1xkWXDQ_mEcJ-bcMcv-KpVpV3YD=s360",
       "url": "https://play.google.com/store/apps/details?id=air.com.gameever.juanitoarcade"
     },
+	
 	    {
+      "name": "Chameleon Run",
+      "genre": "Arcade",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/nmsCeAmO6KclI_VoHnRwlZojTa5f6arzz5Cvw-vj-v1Wb-Ex93nwjhzyIcgGfeO2Gg=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.chameleonrun"
+    },
+	
+	
+    {
       "name": "BrickGame 9999 in 1",
       "genre": "Arcade",
       "paid": "f",
