@@ -1,295 +1,48 @@
-{
-  "games": [
-    {
-      "name": "Aces of the Luftwaffe",
-      "genre": "Arcade",
-      "paid": "t",
-      "image": "https://play-lh.googleusercontent.com/a2ykrO9HWcV67Jt7ZLPaYRycc_zNoD6KY1wALo0FfuKBDa-KFFc0jwt1V9rQXbgyBZE=s360-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.hg.aotlpremium"
-    },
-    {
-      "name": "AirAttack 2",
-      "genre": "Arcade",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/qvQ7LpXRzBBdmHg5QNpQTe6MIfjfnEzmSVjnomfk_6jWjjLjrWd53jX78L7oZLT8rG0=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.ArtInGames.AirAttack2f"
-    },
-    {
-      "name": "Alto's Adventure",
-      "genre": "Action",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/gxylrEt14mAOWhHLJbuHg7lIa3h8t5tLbXcCZL_ox437C4UVO7Euk9rj6fjGLUdnTWw=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.altosadventure"
-    },
-    {
-      "name": "Alto's Odyssey",
-      "genre": "Action",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/l4PdRz_ZURsgohnf9z-4uN2eLgnDTAZXPfcQVo7gNoqR4rYqI0Ed2BQVH51sa_KDNUU=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.altosodyssey"
-    },
-    {
-      "name": "Animal Super Squad",
-      "genre": "Adventure",
-      "paid": "t",
-      "image": "https://play-lh.googleusercontent.com/vw96NF_D4477kM9RQIfO7Adkt9v0ZqXcblnAKY5sUl9N1vWQ-gW2mb2GqJOeHcG2bu0=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.DoubleMoose.AnimalSuperSquad"
-    },
-    {
-      "name": "Arkagamepad",
-      "genre": "Action",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/Av-UOo5j0GC1nhNmsPLP1KmgUHCufNBmctBd0fy76ISh-A3BUcEq4yCjscKTZwVlU58=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.RealPlayStudio.ArkaGamepad"
-    },
-    {
-      "name": "Arthur & Aziliz",
-      "genre": "Action & Adventure",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/hBZI6CtTsUc_6lJ0T71mUWN0aWXM98nrCNCJYsvbn7Jy09WFp51vlGYCKSnaqQiGcg=s360",
-      "url": "https://play.google.com/store/apps/details?id=net.hieroglyphe.arthur"
-    },
-    {
-      "name": "Bermuda Dash",
-      "genre": "Arcade",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/RmxK9CzSRnWyIB2r-bI-2Uifntu1V8wHekfxfQTFy-tJoYU6ATNzlnwTKhDILqvGNyAt=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.ci.bermudadash"
-    },
-    {
-      "name": "Bomb Hunters",
-      "genre": "Arcade",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/dc0EQv20M-vX4TxFQJC6DSacdSL8hr17iZcddZN6hI7-tmbSyKio6z0Qr8NIu1iP7g=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.craneballs.bombhunter"
-    },
-    {
-      "name": "Black Paradox",
-      "genre": "Arcade",
-      "paid": "t",
-      "image": "https://play-lh.googleusercontent.com/q3o8vO0_ep4js2GlSNYGcLMEEIcP413CIBNx4gSIkC6eCLFXgVF_RE8kRBdBxlEaBoJo=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.fantasticostudio.blackparadox"
-    },
-    {
-      "name": "Brick Breaker",
-      "genre": "Arcade",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/0ZDc_jWYBohO2pZ3Av81JcADTF6krmkdRnaJlWcAwOmEC9z8NJBlEspKF6wvD5963Zo=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.abyxentertainment.BricksBreakerPro"
-    },
-    {
-      "name": "Atomic Super Lander",
-      "genre": "Arcade",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/cWNo3V2NKyfbEm7NSltfaL143XJEWiREd89tEVwTmTO8yFcuKgkhcyQmtDV1c0fIpMY=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.crescentmoongames.atomicsuperlander"
-    },
-    {
-      "name": "Canyon Capers",
-      "genre": "Arcade",
-      "paid": "t",
-      "image": "https://play-lh.googleusercontent.com/J1X8Sp-bO5G2RoOtAVc0toIRg-pPc_sZNgbyrP12iJAoKLc_fBivscJaGiOvd98qnA=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.crazymoogames.CanyonCapers#"
-    },
-    {
-      "name": "Bud Spencer & Terence Hill - Slaps And Beans",
-      "genre": "Arcade",
-      "paid": "t",
-      "image": "https://play-lh.googleusercontent.com/wQiwsKuq74fVC5NJ2c-HpCmbp7DjmEgrKpzuCx-GAOJKPa5abiNeYq-ou5bqOeQmcuY=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.trinityteam.slapsandbeans"
-    },
-    {
-      "name": "Castle of Illusion",
-      "genre": "Adventure",
-      "paid": "t",
-      "image": "https://play-lh.googleusercontent.com/35d8WAtrOoRRNhB_o0ost9N_pYuSp9t3vEQ_hbuzra1a38d-yjI04Lh_KpoXi6GU2Y8=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.disney.castleofillusion_goo#"
-    },
-    {
-      "name": "Boulder Dash",
-      "genre": "Action",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/TRbH4djFRg_0L4rMgQh9sIhb0wXq7B2OuWAt4N2EczNzw6v6l32qaQW8OIAAF_AcDxEZ=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.tapstargames.boulderdash30"
-    },
-    {
-      "name": "Arcade Mayhem Shooter",
-      "genre": "Arcade",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/AYCU4HUbPcbQOpR0PS1xVg3sa-XG9mdxRGyPtSKSc1xkWXDQ_mEcJ-bcMcv-KpVpV3YD=s360",
-      "url": "https://play.google.com/store/apps/details?id=air.com.gameever.juanitoarcade"
-    },
-	
-	    {
-      "name": "Chameleon Run",
-      "genre": "Arcade",
-      "paid": "t",
-      "image": "https://play-lh.googleusercontent.com/nmsCeAmO6KclI_VoHnRwlZojTa5f6arzz5Cvw-vj-v1Wb-Ex93nwjhzyIcgGfeO2Gg=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.chameleonrun"
-    },
-	
-	
-	
-	
-		    {
-      "name": "Clash of Puppets",
-      "genre": "Action",
-      "paid": "t",
-      "image": "https://play-lh.googleusercontent.com/LzjNq61AdYiXKuc3XbNYzs2okCkJlcUH1nfNEtLtk0XkUpqVZq3sxLxXOVpnr98eQO9E=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.crescentmoongames.clashofpuppets"
-    },
-	
-	
-	
-	
-	
-	
-			    {
-      "name": "Crazy Taxi Classic",
-      "genre": "Arcade",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/JciAjxmcW-o3miDiunWR8ztXVfBUXqlryHvBeHE-oP4f6CKocMaP-211gpv2OzBHQw=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.sega.CrazyTaxiplayhaven"
-    },
-	
-	
-	
-	
-	
-	
-				    {
-      "name": "Crossy Road",
-      "genre": "Action",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/2yH_JCxn7D9FttXZViPhmvIEDfRhio5qdLdWJLxcIfh8PjIkVeBgt_Gj7q21dIRp97g=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad"
-    },
-	
-	
-	
-	
-	
-					    {
-      "name": "Dandara",
-      "genre": "Adventure",
-      "paid": "t",
-      "image": "https://play-lh.googleusercontent.com/VWlsikPKcHeX83f_aGX89BhBmff5tYqpvXTeHF-aYwuimOWHvwEG0HoE7luj9qEXIMM=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.rawfury.longhathouse.Dandara"
-    },
-	
-	
-	
-	
-						    {
-      "name": "Double Dragon Trilogy",
-      "genre": "Arcade",
-      "paid": "t",
-      "image": "https://play-lh.googleusercontent.com/jhe7_OcNmy6HYZx18PioBxrvj9Ki-lzelBQpFWVWIF8l1cAEpkWHH1XflTdNMrUsPME=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.dotemu.ddtrilogy"
-    },
-	
-	
-	
-	
-	
-	
-	
-							    {
-      "name": "Dokuro",
-      "genre": "Action",
-      "paid": "t",
-      "image": "https://play-lh.googleusercontent.com/CiVHnduXoE4Dqg6hke4C9TAr6bZ-uiwl1L-JPUMa_Xe0IajMSiuiYHXRkf0TP8zdzds=s360",
-      "url": "https://play.google.com/store/apps/details?id=jp.gungho.dokuro"
-    },
-	
-	
-	
-		
-	
-	
-							    {
-      "name": "DRAW CHILLY",
-      "genre": "Arcade",
-      "paid": "t",
-      "image": "https://play-lh.googleusercontent.com/tQdeqsZchUSGTZkqucS7BY4j75upCAuQO0WWmNJc-UxOJCVdiEsqNDqogQzYYokscHo=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.azamatika.drawchilly"
-    },
-	
-	
-	
-	
-	
-	
-		
-	
-							    {
-      "name": "Don Zombie",
-      "genre": "Action",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/CGMQTk3ENy_utHYdlNtn6wOHbbgj2uSWKriaqQn79k9zz_k9uKG6FhZbH6nPeAMVNg=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.nosixfive.undead"
-    },
-	
-	
-	
-	
-	
-	
-			
-	
-							    {
-      "name": "Draw Rider",
-      "genre": "Racing",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/GUnt06qUk3jEA93-QsKB8JEMLwFIdzOzsWadlagvb4TpOC6wxt0fpjxSmQ-gtyQ0JQ=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.Studio17.drawrider"
-    },
-	
-	
-	
-	
-	
-	
-				
-	
-							    {
-      "name": "Draw Rider Plus",
-      "genre": "Racing",
-      "paid": "t",
-      "image": "https://play-lh.googleusercontent.com/tDAIRoqd716XD7bnZPOp7sr6H0mT-VWayrznWq6WbVg9Jp1Z9ZA2YCa_ewt9X_JnSg=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.Studio17.drawriderplus"
-    },
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-    {
-      "name": "BrickGame 9999 in 1",
-      "genre": "Arcade",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/j2WXu4st6Jw_YbePsd2S53JxRW8XEOVBdnh7PQIDf7S_y8fgUNpZU02IIpHsKpmv16OH=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.kry.brickgame"
-    },
-    {
-      "name": "Another World",
-      "genre": "Adventure",
-      "paid": "t",
-      "image": "https://play-lh.googleusercontent.com/VgD5VexJhqhVdT2l1ZFh9SjZmnCPZjiWhrV9H0S20w5rlcQ8BglJTXHLGj9b7IFPOw=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.dotemu.anotherworld"
-    }
-  ]
+         "paid":"t",
+         "image":"https://play-lh.googleusercontent.com/CiVHnduXoE4Dqg6hke4C9TAr6bZ-uiwl1L-JPUMa_Xe0IajMSiuiYHXRkf0TP8zdzds=s360",
+         "url":"https://play.google.com/store/apps/details?id=jp.gungho.dokuro"
+      },
+      {
+         "name":"DRAW CHILLY",
+         "genre":"Arcade",
+         "paid":"t",
+         "image":"https://play-lh.googleusercontent.com/tQdeqsZchUSGTZkqucS7BY4j75upCAuQO0WWmNJc-UxOJCVdiEsqNDqogQzYYokscHo=s360",
+         "url":"https://play.google.com/store/apps/details?id=com.azamatika.drawchilly"
+      },
+      {
+         "name":"Don Zombie",
+         "genre":"Action",
+         "paid":"f",
+         "image":"https://play-lh.googleusercontent.com/CGMQTk3ENy_utHYdlNtn6wOHbbgj2uSWKriaqQn79k9zz_k9uKG6FhZbH6nPeAMVNg=s360",
+         "url":"https://play.google.com/store/apps/details?id=com.nosixfive.undead"
+      },
+      {
+         "name":"Draw Rider",
+         "genre":"Racing",
+         "paid":"f",
+         "image":"https://play-lh.googleusercontent.com/GUnt06qUk3jEA93-QsKB8JEMLwFIdzOzsWadlagvb4TpOC6wxt0fpjxSmQ-gtyQ0JQ=s360",
+         "url":"https://play.google.com/store/apps/details?id=com.Studio17.drawrider"
+      },
+      {
+         "name":"Draw Rider Plus",
+         "genre":"Racing",
+         "paid":"t",
+         "image":"https://play-lh.googleusercontent.com/tDAIRoqd716XD7bnZPOp7sr6H0mT-VWayrznWq6WbVg9Jp1Z9ZA2YCa_ewt9X_JnSg=s360",
+         "url":"https://play.google.com/store/apps/details?id=com.Studio17.drawriderplus"
+      },
+      {
+         "name":"BrickGame 9999 in 1",
+         "genre":"Arcade",
+         "paid":"f",
+         "image":"https://play-lh.googleusercontent.com/j2WXu4st6Jw_YbePsd2S53JxRW8XEOVBdnh7PQIDf7S_y8fgUNpZU02IIpHsKpmv16OH=s360",
+         "url":"https://play.google.com/store/apps/details?id=com.kry.brickgame"
+      },
+      {
+         "name":"Another World",
+         "genre":"Adventure",
+         "paid":"t",
+         "image":"https://play-lh.googleusercontent.com/VgD5VexJhqhVdT2l1ZFh9SjZmnCPZjiWhrV9H0S20w5rlcQ8BglJTXHLGj9b7IFPOw=s360",
+         "url":"https://play.google.com/store/apps/details?id=com.dotemu.anotherworld"
+      }
+   ]
 }
