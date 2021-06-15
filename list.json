@@ -414,6 +414,27 @@
       "url": "https://play.google.com/store/apps/details?id=com.Alper.Manuganu2"
     },
     {
+      "name": "Ritual",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/S35eVcUOH-oPosqntKVWKpRNYDxqL5ESkoLb3Vpcj1yjeR5dsMrm4D8jFJuFB0-Zylrp=s360",
+      "url": "https://play.google.com/store/apps/details?id=net.hexage.ritual"
+    },
+    {
+      "name": "Retro Highway",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/Ipuj47_ljRwQomI9YSaV3mmz6OBiulL1r9JHTi71sYwbpFIjMtfDe9dRJw0Qus_6q9ot=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.nicolaigd.retrohighway"
+    },
+    {
+      "name": "REKT! - High Octane Stunts",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/ENgkzUPAPhlrvyQW90gHUCg4aF0nROadIJ-r7XOC22rgwfHpFhhfpMg3rwdAetZfzKQ=s360",
+      "url": "https://play.google.com/store/apps/details?id=nl.littlechicken.stuntgame"
+    },
+    {
       "name": "Hero Siege",
       "genre": "Role Playing",
       "paid": "t",
