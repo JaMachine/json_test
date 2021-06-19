@@ -442,6 +442,62 @@
       "url": "https://play.google.com/store/apps/details?id=com.panicartstudios.herosiegepocket"
     },
     {
+      "name": "R-TYPE II",
+      "genre": "Arcade",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/TMDgR-oWS9mYyiSyhc2TM2OVWxhbtpDsd4dIIM_7y4YgVbfAyd9wx0YErGMZhsM7pA=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.dotemu.rtype2"
+    },
+    {
+      "name": "SpaceCat",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/1mRay1u3452i0ZXd2nG1srXGVTxe_RxvEnZHyRnTTCRHuW7ED2xaFs7H9vfs-35NDZU=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.thepilltree.spacecat"
+    },
+    {
+      "name": "Snow Kids",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/D2R624Q06agsjBejV4lF97deXCNU7fVhSarmbwvBF_XXa0133WRtvs45SOO6bizATw=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.neutronized.SnowKids"
+    },
+    {
+      "name": "Solar 2",
+      "genre": "Simulation",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/7Ge6cH7tUguaxbw3_oojwTdR2co18Fp_fABoIxFdDAbcjIJI8l5OJrvdrs0tiTuYbG8=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.murudai.Solar2"
+    },
+    {
+      "name": "Smashing Rush",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/ClPWj3PiuhTwAO5Ru2qDMosI4KpP26t6QvsV_veYgsgUV8xpNqJf4kshn3sKugOGpFc=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.coldsoda.smashingrush"
+    },
+    {
+      "name": "Ski Safari 2",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/Cew6OSKR2NR2GfGETP2BfLDhhXnHg17NRihD8ojls388AnRX8MgtHdIUUfVgaaGs3AA=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.sleepyzstudios.skisafari2"
+    },
+    {
+      "name": "ShaqFu: A Legend Reborn",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/1Y0u8kVpb1j215FjE6FdONTRYcaQQbBmit3J7Hc0pnewuuU5rVHYMuqswy40oy7ZgmA=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.maddog.shaqfu"
+    },
+    {
+      "name": "Robot Run Madness",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/0WzsrlSg-eEpp7d89v_nOQfwICSb3ZtgEAh3j7Ns4IatLBaOPCXta21H1w0KsGfn65g=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.freesquaregames.runnergame"
+    },
+    {
       "name": "Growtopia",
       "genre": "Adventure",
       "paid": "f",
