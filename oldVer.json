@@ -302,12 +302,493 @@
       "url": "https://play.google.com/store/apps/details?id=com.appsir.hopbound"
     },
     {
+      "name": "Jungle Adventures 2",
+      "genre": "Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/TKj4rwBIfTlRQkcqN7ZIXHPwD0h9ogDuUd1wztoJB0CollodwuY0Hg8UZeZ4uNuwgg=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.renderedideas.jungleadventures2"
+    },
+    {
+      "name": "Red Ball 4",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/_2RsmTzfPHkBeSmDVOzgKaSQGLNqYep9mRsuYErzIcQslzAt_0hQDgoP4wJCwvMJkizT=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.FDGEntertainment.redball4.gp"
+    },
+    {
+      "name": "Retro Ghosts and Devils",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/GWtBdxGhc_PtYuw4O66WWyYGM6K0UKwe8eacE2jSLBxXgTuijx8H6a_bdkmaEEsV6vI=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.retro.classicmania12"
+    },
+    {
+      "name": "Reaper",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/XdCM5GNukbIo2MR69jeBFzatDezYhlDSM_FBD72sZfuNSKgXPZcdkQrZjAvnK6SUTqv1=s360",
+      "url": "https://play.google.com/store/apps/details?id=net.hexage.reaper"
+    },
+    {
+      "name": "Rayman Jungle Run",
+      "genre": "Action",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/SkNOjuAwZsCpzCUqYLOpyw4ksoy2Q8AqXsbaNAf5HO5YWAuYfwVCxMURfymwSWNZHYQ=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.pastagames.ro1mobile"
+    },
+    {
+      "name": "Radiant",
+      "genre": "Arcade",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/CzTHmf7M-JfnetULlzuRV5-Bzba_bGEZqK6FCa3HGNMdmn4fqKKvlEUcIqlNmpXeDFI=s360",
+      "url": "https://play.google.com/store/apps/details?id=net.hexage.radiant"
+    },
+    {
+      "name": "PewPew 2",
+      "genre": "Arcade",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/91SGHaTs816-wuGjaJHVNHWBad4372GulcywT-FVPp6AF7MYaBDIAA3lk4wcvldGBh0=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.jyaif.pewpew2"
+    },
+    {
+      "name": "PewPew",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/rYgmxjrOp4q3PsM3bnsCc98NxGTjwpktMLv-8GL68nB_bTSKWeq6l44_N2DPDqNDvq_r=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.jyaif.pewpew"
+    },
+    {
+      "name": "Party Hard",
+      "genre": "Arcade",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/CSo-sYB477vhhFGO8sZg0t1ssE39PuNvswJ1XjrYSJxy4CPMwMWseyIWyLBXwDhQfQ=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.Pinokl.PartyHard"
+    },
+    {
+      "name": "PAC-MAN 256",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/KK7mP_etdtFFzdNBa6XTAenfnXEXiGTtqT8Lv4bffra99bT4e_JvK6n5Xp5rvEVQZEA=s360",
+      "url": "https://play.google.com/store/apps/details?id=eu.bandainamcoent.pacman256"
+    },
+    {
+      "name": "Oddworld: New 'n' Tasty",
+      "genre": "Action",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/ixO8kOaXSD_3zIeNkzTz8WCr4DNb4blu3surdX-kc8Grq4KAXwHjpvQSXQu3CZWckS0=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.oddworld.NNT"
+    },
+    {
+      "name": "Oddmar",
+      "genre": "Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/NRQ3EOLAfYYtBdShS74jVGGyf9XNy9h__Nj4CLdmSyz0KhfmOvn1uriYw34nEF--1rOr=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.mobge.Oddmar"
+    },
+    {
+      "name": "Ninjas - STOLEN SCROLLS",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/cwhfUG3rEkSTclp8TMixb3H03tw9j8jedzJHrXjZjNxh7FyYe1QlQ2akbTmd8q77iz0=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.falsehoodmask.NinjaWar"
+    },
+    {
+      "name": "Ninja Hero Cats",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/oBLwL5A8Es4YkcIw_x_zhNCJeOQlnhPTEtanculQygtYJX1-KIPiBY2_CWf7qtp_KvI=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.hg.ninjaherocatsfree"
+    },
+    {
+      "name": "Munin",
+      "genre": "Arcade",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/eCXLT1v8-3SovW8_EekbId1lFrpnr_XdJHucRE2jn_iCSgo7_eCIx_Dr_fV9AHQCZFM=s360",
+      "url": "https://play.google.com/store/apps/details?id=de.daedalic.munin"
+    },
+    {
+      "name": "Manuganu 2",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/b6jk5TBKp2eGamnb-4wopbaiokiNQ-Xpi-UNYyZEO8W1Ff5BqvX-eWQK_kmAiN8i0g=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.Alper.Manuganu2"
+    },
+    {
+      "name": "Ritual",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/S35eVcUOH-oPosqntKVWKpRNYDxqL5ESkoLb3Vpcj1yjeR5dsMrm4D8jFJuFB0-Zylrp=s360",
+      "url": "https://play.google.com/store/apps/details?id=net.hexage.ritual"
+    },
+    {
+      "name": "Retro Highway",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/Ipuj47_ljRwQomI9YSaV3mmz6OBiulL1r9JHTi71sYwbpFIjMtfDe9dRJw0Qus_6q9ot=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.nicolaigd.retrohighway"
+    },
+    {
+      "name": "REKT! - High Octane Stunts",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/ENgkzUPAPhlrvyQW90gHUCg4aF0nROadIJ-r7XOC22rgwfHpFhhfpMg3rwdAetZfzKQ=s360",
+      "url": "https://play.google.com/store/apps/details?id=nl.littlechicken.stuntgame"
+    },
+    {
       "name": "Hero Siege",
       "genre": "Role Playing",
       "paid": "t",
       "image": "https://play-lh.googleusercontent.com/bexzGEbbs5NBJAN25xul8lvJyc03P1juUnomtilGqJrIocCuxiWenKbecvjudmRgqHg=s360",
       "url": "https://play.google.com/store/apps/details?id=com.panicartstudios.herosiegepocket"
     },
+    {
+      "name": "R-TYPE II",
+      "genre": "Arcade",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/TMDgR-oWS9mYyiSyhc2TM2OVWxhbtpDsd4dIIM_7y4YgVbfAyd9wx0YErGMZhsM7pA=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.dotemu.rtype2"
+    },
+    {
+      "name": "SpaceCat",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/1mRay1u3452i0ZXd2nG1srXGVTxe_RxvEnZHyRnTTCRHuW7ED2xaFs7H9vfs-35NDZU=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.thepilltree.spacecat"
+    },
+    {
+      "name": "Snow Kids",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/D2R624Q06agsjBejV4lF97deXCNU7fVhSarmbwvBF_XXa0133WRtvs45SOO6bizATw=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.neutronized.SnowKids"
+    },
+    {
+      "name": "Solar 2",
+      "genre": "Simulation",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/7Ge6cH7tUguaxbw3_oojwTdR2co18Fp_fABoIxFdDAbcjIJI8l5OJrvdrs0tiTuYbG8=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.murudai.Solar2"
+    },
+    {
+      "name": "Smashing Rush",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/ClPWj3PiuhTwAO5Ru2qDMosI4KpP26t6QvsV_veYgsgUV8xpNqJf4kshn3sKugOGpFc=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.coldsoda.smashingrush"
+    },
+    {
+      "name": "Ski Safari 2",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/Cew6OSKR2NR2GfGETP2BfLDhhXnHg17NRihD8ojls388AnRX8MgtHdIUUfVgaaGs3AA=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.sleepyzstudios.skisafari2"
+    },
+    {
+      "name": "ShaqFu: A Legend Reborn",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/1Y0u8kVpb1j215FjE6FdONTRYcaQQbBmit3J7Hc0pnewuuU5rVHYMuqswy40oy7ZgmA=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.maddog.shaqfu"
+    },
+    {
+      "name": "Robot Run Madness",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/0WzsrlSg-eEpp7d89v_nOQfwICSb3ZtgEAh3j7Ns4IatLBaOPCXta21H1w0KsGfn65g=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.freesquaregames.runnergame"
+    },
+	
+	
+	
+	
+			
+		
+	    {
+      "name": "Scrambler",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/Prm8ItRb7UoROcNKxWh957scg1ULqN1x4z9oTNzH1gh4Rp_NsF4_WI9HBAe6eDOUh-w=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.chrawfish.scrambler"
+    },
+	
+	
+	
+	
+		
+				
+		
+	    {
+      "name": "Commander Genius",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/MJH9c6Ts1kuB-0WhKV27dHG67EIirO1I5evjW9Lkoki1k4l9JHwqi6QJ35SDRkmwXivm=s360",
+      "url": "https://play.google.com/store/apps/details?id=net.sourceforge.clonekeenplus"
+    },
+	
+	
+	
+	
+				
+		
+	    {
+      "name": "Zombie Age 2",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/bXVpC6ylkjO7wM-3HojkKYXJ5k9pjcvASeKrzT0RQ6x0aCa1GR57JLJyzgod5yk4-A=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.redantz.game.zombie"
+    },
+	
+	
+		
+	
+				
+		
+	    {
+      "name": "Zombie Age 3",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/Q-fDME6YEHZ8xnjPe5cLq0hmfp7XnO9opg3vL9kN3mdMyRw66f7YXKcf7_Tze-JQd6k=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.redantz.game.zombie3"
+    },
+	
+	
+	
+	
+		
+				
+		
+	    {
+      "name": "Tanks!",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/3Iai1CIvxNgv4Ja7aY-G0h3y1JyGefH28vIsFVVHOGokMszSJ8HzZCkx-W90MW3IkTo=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.apedroid.tanks"
+    },
+	
+	
+	
+	
+	
+	
+				
+				
+		
+	    {
+      "name": "Wind-up Knight 2",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/uGEfnbviFFgGjyZrmo5EJ8zzF6P7yVU-AVaYBLctMgNlTTrnGOyAhoCf4jWqyOqv5JJE=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.robotinvader.knightmare2"
+    },
+	
+	
+	
+		
+			
+	
+	
+	
+			
+				
+		
+	    {
+      "name": "Vectronom",
+      "genre": "Music",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/J4tn8LoPjUXwQrrOQITtVlx27Iws2027gYN9wl1D42CvkopEuNVZHcvGdJ20a25tzyDr=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.ArteExperience.Vectronom"
+    },
+	
+	
+	
+	
+		
+		
+				
+		
+	    {
+      "name": "Toon Shooters 2",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/rS4qCU2qclumWbKbUpXwrFXKjjv9RoIBw-_eM_iO7ggDs-7sTlALvPzF7F-k9FEwSEk=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.mooffgames.toonshooter2"
+    },
+	
+	
+	
+	
+	
+		
+	
+				
+		
+	    {
+      "name": "The Bug Butcher",
+      "genre": "Arcade",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/Gt3pJCU10JDSyrYgXJbQ606ukVR1VTQzJ2wpplRAdbMsBSf0zcaF6acG7JECs1ibGFw=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.bugbutcher"
+    },
+	
+	
+	
+	
+	
+			
+	
+	
+			
+		
+	
+			
+		
+	    {
+      "name": "Stickman Battlefields",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/yIfR1T4Csnyx9D6GsrqyQvg2W-7BWRmfoUyfEBNhNA9iPhgQzIWI07aW9OKd0gDDrGxr=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.rsz.StickmanBattlefields"
+    },
+	
+	
+	
+				
+		
+	
+			
+		
+	    {
+      "name": "Suzy Cube",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/x3JvUalIES46uQ_T2UGcpWRWOd7nlRLByRT3P11hsfi-WTATvr5qSTeR4O_t4k89kIyu=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.suzycube"
+    },
+	
+	
+	
+	
+		
+		
+	
+		
+		
+	
+	
+		
+		
+	
+			
+		
+	    {
+      "name": "Super Mega Worm Vs Santa Saga",
+      "genre": "Action",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/0aLCi-T3O5PzgoW9I8YRlxH0MqtSu6d3QQzOmGw_3fh61nfxbQCG_ZRyzjHam3D-cic=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.deceasedpixel.smwxmassaga"
+    },
+	
+	
+	
+	
+		
+		
+	
+			
+		
+	    {
+      "name": "Sky Force 2014",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/RjtuakygkUeyy1rlXc4s9nZ5pfjtB-UgFC9RarUyH2qINntp_0NgIvRUX7-NA_jp7w=s360",
+      "url": "https://play.google.com/store/apps/details?id=pl.idreams.skyforcehd"
+    },
+	
+	
+	
+	
+		
+				
+		
+	    {
+      "name": "Super Grav",
+      "genre": "Arcade",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/9Uhn48CeI9mGs1lTpSP8aNqiKyXTpwKRpEnMk7N9tkqtXhthopQn9eUILf8-akNezeA=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.demonstudios.supergrav"
+    },
+	
+	
+	
+	
+				
+		
+	    {
+      "name": "Snake Core",
+      "genre": "Arcade",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/MNpfREKUhV2wlV7k6IQmk7xkKgCooiWMSeqoRTgpw1EBGkXevDpREUZ_DiduNLb7OVZI=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.orangepixel.snakecore"
+    },
+	
+	
+	
+	
+	
+			
+	
+			
+		
+	    {
+      "name": "Sky Duels",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/ohByVgxn-xA1pj9XsCsbzSDfmsa9x5ChsRi9cFBnr2ocEaOfF1xwhlE0mib9RG7qDa7Z=s360",
+      "url": "https://play.google.com/store/apps/details?id=cz.panopera.skyduels"
+    },
+	
+	
+	
+	
+	
+	
+	
+		
+		
+	    {
+      "name": "Stardash",
+      "genre": "Arcade",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/6o83Q1qVq8AurGGLXEa4CSdyZKo1A5AA9Ru7DO-k6G451b4YZLZNyT0jAqxl_qsKVpQ=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.orangepixel.stardash"
+    },
+	
+	
+	
+	
+	
+		
+	    {
+      "name": "Stage Dive Legends",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/ELmQfAX-qjGNz1Ce8AIPNB5uTkooS8yKYczaGtlRNX1AQSeLDdB65_6ggax5LwHduOM=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.hg.sdlfree"
+    },
+	
+	
+	
+	
+	    {
+      "name": "Sparkle Corgi Goes Cave Diving",
+      "genre": "Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/UlaLSZR1psjfYGeBQlYnstM-Ev9QszkWtnd4xeVcYZnG_B2P2LnZdDzvPIC_zi5PGA=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.hitcents.cavecorgi"
+    },
+	
+	
+	
     {
       "name": "Growtopia",
       "genre": "Adventure",
