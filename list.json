@@ -787,13 +787,119 @@
       "url": "https://play.google.com/store/apps/details?id=com.pixelperfectdude.htdrive"
     },
 	  {
-      "name": "",
-      "genre": "",
-      "paid": "",
-      "image": "",
-      "url": ""
+      "name": "Absolute Drift",
+      "genre": "Racing",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/0DZp53RM62leMRRhzNitH4CSeItNSOgIFRvwvz4V4GDBpKUKRQTeD92VNaVb32Wf5w=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.absolutedrift"
+    },
+	
+		  {
+      "name": "Asphalt 8",
+      "genre": "Racing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/HGNY6gRB-GJzmpjp283Z-7uvN_p5Sd2qInIrRRfCP8dbZ852xTPDuNt2542LsqSIZhWl=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM"
     },
 	  {
+      "name": "Asphalt 9",
+      "genre": "Racing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/cQBJ7Jwvz0jex8sL7LjgLId-wOdmMajSZbpC-bzHDhS5uK9Zms0fFsXEVNGvlIUk_g=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM"
+    },
+		  {
+      "name": "Asphalt Xtreme",
+      "genre": "Racing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/1CAHVQrzr5yZciKia1Ird83gGin2CqJGuEOvX44gMK-FZ61epy6mTSGa9t1m_Owd1PLr=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftMOHM"
+    },
+		  {
+      "name": "Assoluto Racing",
+      "genre": "Racing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/_rPxXLIhgRwxGMtueVG7cYhW1gfimbVJYwevygXAUvXHJ7WAqilh7TJPwDb4rNE6PjQ=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.infinityvector.assolutoracing"
+    },
+		  {
+      "name": "Beach Buggy Blitz",
+      "genre": "Racing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/TwtA9CelRL0f6Z3tqeUjVoHnMYXc-Zd8bTBbZkSo8YjSguLmK0vpiVa146pNLEOnejQ=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.vectorunit.yellow"
+    },
+		  {
+      "name": "Beach Buggy Racing",
+      "genre": "Racing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/ZQXNGxMGyXurnCTHHj5JQh52_fWEjXUwYGeJi3VKWOwrEeUjGAvcdCJSySmMGxvZujI=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.vectorunit.purple.googleplay"
+    },
+		  {
+      "name": "Beach Buggy Racing 2",
+      "genre": "Racing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/lkOySedyk7XvdRM1yuH6ZAyhzQVoEXEVfpLqJrOyBHbox8TksMMDfNixZk_7Ox1c3g=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.vectorunit.cobalt.googleplay"
+    },
+		  {
+      "name": "Blocky Roads",
+      "genre": "Racing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/1gKIiqV74l3iGHy0JQVYr9u1vKjbM1epPOUSelYxcwpFdsvcMQWIlWlYTZJmS1eK29U=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.crescentmoongames.blocky_roads"
+    },
+		  {
+      "name": "caRRage",
+      "genre": "Action & Racing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/BJOxAyhtjLN1ldI9p2NtyyWL1IOs9lvu67_C9m7ue6HW31fMKJEszUKps4TpkEwFhQ=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.novagames.alphacarrage"
+    },
+		  {
+      "name": "Cosmic Challenge",
+      "genre": "Racing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/rL57-LcUw6iNwNBFe06BBDeyAgAfVmn_oQnJ7TtkksWdW7fyASNNLovu6qU9Ev-JnA=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.ivanovichgames.CosmicChallenge"
+    },
+		  {
+      "name": "Crash Drive 2",
+      "genre": "Racing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/ju8D40SRTYcYZZ6DYPVZXImu4MZhLgj_YaARxxOXennBcLvWDf3wj5jSPSkb4IdKdno=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.spilgames.a10.google.crashdrive2"
+    },
+		  {
+      "name": "Demolition Derby 2",
+      "genre": "Racing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/o_RfWgrzUF-HEz3LTwKQl8IJW0FhvQEdpK4vYuf-rzaUK9KR-oAxJQB78Gd_httCsHfv=s360-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.BeerMoneyGames.Demolition2"
+    },
+		  {
+      "name": "Demolition Derby 3",
+      "genre": "Racing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/_96MKqR7vQJfEunLKi4oJVuv2jWrB3VEoAr6Rg2jSYic1fIqliqAX2F9zO4fENgZUE4=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.beermoneygames.demolition3"
+    },
+		  {
+      "name": "DriftOn",
+      "genre": "Racing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/nBDlcL-g0r1BJBL9Wgw77Uy9GwsseU_scwN1I6adAB8U5qDmgR0ngv143fisVSadG90=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.spokdev.drifton"
+    },
+		  {
+      "name": "Xtreme Rally Driver",
+      "genre": "Racing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/E8hqJ2MERypC36sv0Vmr15952_ViI_-t0oUj_e5JQuCsphboZsjyyJhY5qRrlaFZ9g=s360-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.AB.DRD"
+    },
+		  {
       "name": "",
       "genre": "",
       "paid": "",
