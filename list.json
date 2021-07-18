@@ -707,30 +707,93 @@
       "image": "https://play-lh.googleusercontent.com/uOc3iqkehwJddeJ1d1HtaAQdSAVaViqPydyRfDFN8GGU9zrTkxKA5x7YDJ_3fkJSZA=s360",
       "url": "https://play.google.com/store/apps/details?id=com.nvidia.valvesoftware.portal"
     },    {
+      "name": "Portalize",
+      "genre": "Puzzle",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/DY06k3ADbjpU63YWmpdKdH_G4_RxD2JMcoxBVpwu-fDFeyZ7PdTRRXShz_x5Ei_5k4E=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.heaval.portalize"
+    },    {
+      "name": "Samsara",
+      "genre": "Puzzle",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/3M5q4EJ7IOS3wvpAoudvb-ecIxYaDYTY-YM1chYF9KAardcmJHA7WnQm0U30U4svEZs=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.marker.samsara"
+    },    {
+      "name": "Stealth Inc. 2",
+      "genre": "Action",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/eQmxvA48-bncy3x5IQ2uE6EBTxf5V0ghQV0sjIJKIU23CixM_DBM0wJQfN9Xou0lQqI=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.curvedigital.stealth_inc2"
+    },    {
+      "name": "That Level Again",
+      "genre": "Puzzle",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/M5y4iTELOWE66u-8ZBZ3MdzjEDxLnWIK0Jnumf4OqQjC7O-xXV2uZYz8ZuCWlMuLRF0=s360",
+      "url": "https://play.google.com/store/apps/details?id=ru.iamtagir.game.android"
+    },    {
+      "name": "That level again 2",
+      "genre": "Puzzle",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/d6W1FFOTxjb8z_Wzp1jz8Y4XZntt5SiTDtmiDgxPT3YqFPFB5GB8a28YeF29tIPGGjs=s360",
+      "url": "https://play.google.com/store/apps/details?id=ru.iamtagir.thatlevelagain2.android"
+    },
+	  {
       "name": "",
       "genre": "",
       "paid": "",
       "image": "",
       "url": ""
-    },    {
+    },
+	  {
       "name": "",
       "genre": "",
       "paid": "",
       "image": "",
       "url": ""
-    },    {
+    },
+	  {
       "name": "",
       "genre": "",
       "paid": "",
       "image": "",
       "url": ""
-    },    {
+    },
+	  {
       "name": "",
       "genre": "",
       "paid": "",
       "image": "",
       "url": ""
-    },    {
+    },
+	  {
+      "name": "",
+      "genre": "",
+      "paid": "",
+      "image": "",
+      "url": ""
+    },
+	  {
+      "name": "",
+      "genre": "",
+      "paid": "",
+      "image": "",
+      "url": ""
+    },
+	  {
+      "name": "",
+      "genre": "",
+      "paid": "",
+      "image": "",
+      "url": ""
+    },
+	  {
+      "name": "",
+      "genre": "",
+      "paid": "",
+      "image": "",
+      "url": ""
+    },
+	  {
       "name": "",
       "genre": "",
       "paid": "",
