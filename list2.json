@@ -1408,6 +1408,145 @@
     },
 	
 							  {
+      "name": "Gunslugs",
+      "genre": "Action",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/VpwRcjuaPGOw9nhsREprTB-uULG3qkkai3wqvdx6TD4nhpX57zhODWoxcPoUyDvt9QcK=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.orangepixel.gunslugs"
+    },
+	
+							  {
+      "name": "Gunslugs 2",
+      "genre": "Action",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/C_eWcFLZloRhEXBRYvYd3z5nDgQ1whTlN0_0rcerjFfaB-eQNyxDxNLWp9EIrn4x6oPP=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.orangepixel.gunslugs2"
+    },
+	
+								  {
+      "name": "Juiced!",
+      "genre": "Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/xRj6yNn4GkGu8BjviLUJnQ6Xm73JTZDggk39lPQMTePUC-lWXKqVbyOWfiaO5SEfIg=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.ibbgames.Juiced"
+    },
+	
+								  {
+      "name": "Leo's Fortune",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/rNZUukMMAYuPSl_-zzCHXVO-fHWo4AUVcDVOazTYrd7kViQk8KzNGLdiMTP_Q1qlm8VV=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.leosfortune"
+    },
+	
+								  {
+      "name": "LIMBO",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/FJ8e7NYhyjzrjuROUSpigJ1TQNnZKUDh6AZc1SFjiD665bZsxr_7zus0DzlHIrC6Lgk=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.playdead.limbo.full"
+    },
+	
+								  {
+      "name": "Magic Rampage",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/wS35KgXfXCvLi--JiP4xSCYtDPC4nHga3pC-OlZLZyDivPXL_ju7fOtJmfCrOFH1Sag=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.asanteegames.magicrampage"
+    },
+	
+								  {
+      "name": "Magibot",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/NWexL0DW02rpNmyejiyUdqjmisvhvn7HGpyQRPXzijAd_Oxu6dDl18C1x7oRqjaA0JY=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.plugindigital.magibot"
+    },
+	
+								  {
+      "name": "Meganoid 2",
+      "genre": "Arcade",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/843dVHqp68Z2azfuEsN3JdLBam0E6QW2AoJwQ4X5TUrH2iXI7BrEhwmckp0nEMzO2tM=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.orangepixel.meganoid2"
+    },
+	
+								  {
+      "name": "Meganoid",
+      "genre": "Action",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/4NU1C1VmazFVtDczyQA82xicuyav3kMKBZCdstBcZ5-JqZjivCpIltfgz5dyLuhCdWc=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.orangepixel.meganoid2017"
+    },
+	
+								  {
+      "name": "METAL SLUG 2",
+      "genre": "Arcade",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/f2_wN6u_77B-lSSk_3jSPqa1o7Aldj4vJunb7m1LDzCBFIETkBfbQ-3zPuHq19HsC_A=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.dotemu.neogeo.mslug2"
+    },
+	
+								  {
+      "name": "METAL SLUG 3",
+      "genre": "Arcade",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/MIoSJwc48fO9qQUpmXY7hmdxpDBaFyWFECFIVw0xuEFsj8ZUCbn13iKu_bSZlralsBU=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.dotemu.neogeo.mslug3"
+    },
+	
+								  {
+      "name": "Never Alone",
+      "genre": "Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/HcZQ2TloLZNxpKiTsxw2QwHlnFSrCyaRc5yRLHToPZo7n1dvABwc8v5d2XHt6WuqXfPL=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.eline.neveralone"
+    },
+	
+								  {
+      "name": "NyxQuest: Kindred Spirits",
+      "genre": "Adventure",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/sLggrXd5663GDSYfCAuCQXFjw7LDHgLCsFWSMU4vmJ6ehRWYcCAkyt729LBgoxDE39M=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.overthetopgames.nyxquest"
+    },
+	
+								  {
+      "name": "RockBot #1",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/wCcn-2_PCNiBGGU1bP_xt-Fgw_fG-gYpkriIKU-KXwPj_7ZrvO9XCUpzDbyj4eWzKRX0=s360",
+      "url": "https://play.google.com/store/apps/details?id=net.upperland.rockdroid"
+    },
+	
+								  {
+      "name": "RockBot #2",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/YKQIVVUA2ujdxKufa5d1wFHj8YeywwgEQCDyRwkL3poS5QTyaU_pa2hsLHZVPYXikvE=s360",
+      "url": "https://play.google.com/store/apps/details?id=net.upperland.rockdroid2"
+    },
+	
+	
+									  {
+      "name": "Sonic The Hedgehog 2 Classic",
+      "genre": "Arcade",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/zAfs8OPv2wczRbzl8TFjKE2np2DQXaW6_N7KX1Etiw6sqMTXhZFY4xqqZcODNMQU5wRJ=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.sega.sonic2.runner"
+    },
+	
+	
+									  {
+      "name": "Sonic 4™ Episode I",
+      "genre": "Arcade",
+      "paid": "",
+      "image": "https://play-lh.googleusercontent.com/pTl8si_QBSx2mer8Y8ewXD8KEuPvUvpNxLG2K_HcYcH71rFAhLdsH3Jz-uXWtj2G8Ge4=s360",
+      "url": "https://play.google.com/store/apps/details?id=com.sega.sonic4epi"
+    },
+	
+	
+									  {
       "name": "",
       "genre": "",
       "paid": "",
@@ -1415,7 +1554,152 @@
       "url": ""
     },
 	
-							  {
+	
+									  {
+      "name": "",
+      "genre": "",
+      "paid": "",
+      "image": "",
+      "url": ""
+    },
+	
+	
+									  {
+      "name": "",
+      "genre": "",
+      "paid": "",
+      "image": "",
+      "url": ""
+    },
+	
+	
+									  {
+      "name": "",
+      "genre": "",
+      "paid": "",
+      "image": "",
+      "url": ""
+    },
+	
+	
+									  {
+      "name": "",
+      "genre": "",
+      "paid": "",
+      "image": "",
+      "url": ""
+    },
+	
+	
+									  {
+      "name": "",
+      "genre": "",
+      "paid": "",
+      "image": "",
+      "url": ""
+    },
+	
+	
+									  {
+      "name": "",
+      "genre": "",
+      "paid": "",
+      "image": "",
+      "url": ""
+    },
+	
+	
+									  {
+      "name": "",
+      "genre": "",
+      "paid": "",
+      "image": "",
+      "url": ""
+    },
+	
+	
+									  {
+      "name": "",
+      "genre": "",
+      "paid": "",
+      "image": "",
+      "url": ""
+    },
+	
+	
+									  {
+      "name": "",
+      "genre": "",
+      "paid": "",
+      "image": "",
+      "url": ""
+    },
+	
+	
+									  {
+      "name": "",
+      "genre": "",
+      "paid": "",
+      "image": "",
+      "url": ""
+    },
+	
+	
+									  {
+      "name": "",
+      "genre": "",
+      "paid": "",
+      "image": "",
+      "url": ""
+    },
+	
+	
+									  {
+      "name": "",
+      "genre": "",
+      "paid": "",
+      "image": "",
+      "url": ""
+    },
+	
+	
+									  {
+      "name": "",
+      "genre": "",
+      "paid": "",
+      "image": "",
+      "url": ""
+    },
+	
+	
+									  {
+      "name": "",
+      "genre": "",
+      "paid": "",
+      "image": "",
+      "url": ""
+    },
+	
+	
+									  {
+      "name": "",
+      "genre": "",
+      "paid": "",
+      "image": "",
+      "url": ""
+    },
+	
+	
+									  {
+      "name": "",
+      "genre": "",
+      "paid": "",
+      "image": "",
+      "url": ""
+    },
+	
+	
+									  {
       "name": "",
       "genre": "",
       "paid": "",
