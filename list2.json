@@ -3329,22 +3329,159 @@
 		
 	
 																  {
-      "name": "",
-      "genre": "",
-      "paid": "",
-      "image": "",
-      "url": ""
+      "name": "Apple Knight",
+      "genre": "Action & Casual",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/oe8BIjTw2zcmqKMHcxajJy0Pv-5EmpYEG0aHRyvTI7yFRkVstQokNHkSFwYMZ8xYlQg=s96",
+      "url": "https://play.google.com/store/apps/details?id=online.limitless.appleknight.free"
     },
 	
-		
+	
+	
 	
 																  {
-      "name": "",
-      "genre": "",
-      "paid": "",
-      "image": "",
-      "url": ""
+      "name": "Archaic: Tank Warfare",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/x4NE4nsliIIRym-HmGK_WVY2KmdrE9veNYLUALVoGk_O4v8BAdPaPHPIdbumIDgq4w=s96",
+      "url": "https://play.google.com/store/apps/details?id=com.athanasiadis.archaicwarfare"
     },
+	
+	
+	
+	
+																  {
+      "name": "Modern Tanks",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/31ljBHWhvNu25BUQJXl2IYrKoz2x7-errNoPbKMQuK-_cPdw28e_n7pMKJFEKD5ytVs=s96",
+      "url": "https://play.google.com/store/apps/details?id=com.extremedevelopers.armada"
+    },
+	
+	
+	
+	
+																  {
+      "name": "Archery",
+      "genre": "Casual",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/xfKrN4eJ7pfg_uVknlpuYHk3-uBOJHBOYMjyEclCbZG-tbOcs7p02RGjo449nhxd7i1W=s96",
+      "url": "https://play.google.com/store/apps/details?id=com.thekmtechnology.games.archeryphysicspro"
+    },
+	
+	
+	
+	
+																  {
+      "name": "ARMAJET",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/9FCbnPwnxe7hFai-yi_3lT8BOiWkXf-pZzm1efDNJ_Cf6pJPIbngatHjx64_-h7xf3U=s96",
+      "url": "https://play.google.com/store/apps/details?id=com.superbitmachine.armajet"
+    },
+	
+	
+	
+	
+																  {
+      "name": "Armored Squad",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/-KZ6Z0g-Pjh73hDzpQ_ISwCQ39mtZ6PKMYZbmZtkNz-nbgma382v9ZtvIj-avq8jrVE=s96",
+      "url": "https://play.google.com/store/apps/details?id=com.FoxForceGames.ArmoredSquad"
+    },
+	
+	
+	
+	
+																  {
+      "name": "Ashworld",
+      "genre": "Action & Adventure",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/UjM4U_FOk5DBHESwX2kMeYcS_TECn87Bnx2lQO-I0IJaeL8PlDFUPl9HA8ZDQazI2VU=w96",
+      "url": "https://play.google.com/store/apps/details?id=com.orangepixel.ashworld"
+    },
+	
+	
+	
+	
+																  {
+      "name": "Battle Supremacy",
+      "genre": "Action",
+      "paid": "t",
+      "image": "https://play-lh.googleusercontent.com/BsuW6cu3sBmKt2il21rk5WdbfS3Vx999t1Ms2ZpZQZ-jx5EPW3w74h5EnAQ7RZBy-DI=w96",
+      "url": "https://play.google.com/store/apps/details?id=com.atypicalgames.battlesupremacy"
+    },
+	
+	
+	
+	
+																  {
+      "name": "Battle Tank",
+      "genre": "Action & Casual",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/2xblcCcJtlwtk5OHdrvQtqH5u0EckVwfev7Kp2U0fQqCw3-IWY10oWYkUTSV-jdtNWpP=s96",
+      "url": "https://play.google.com/store/apps/details?id=com.spcomes.wnbattletank"
+    },
+	
+	
+	
+	
+																  {
+      "name": "Battle Tanks",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/hiUMOGn-U7MH3z3wlRjNLm2TLUwKA4U43Y2vAJyCL9kHZIjLGFV_EAvX187XcXYmRM0=s96",
+      "url": "https://play.google.com/store/apps/details?id=com.extremedevelopers.battletanks"
+    },
+	
+	
+	
+	
+																  {
+      "name": "BladeBound",
+      "genre": "Role Playing",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/2xtnZy7UKtmI3IJAyKv1n0ii8BIhI_FhBdxqYQ_2ifZFlWD6rD5A2uzYXkBU1tbeTA=s96",
+      "url": "https://play.google.com/store/apps/details?id=com.artifexmundi.balefire"
+    },
+	
+	
+	
+	
+																  {
+      "name": "Blitz Brigade",
+      "genre": "Action",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/QBLdZV2MUmVXgZznkHF7CMK8YOhMcqSNthGL50nicMzJ49i8w8Jk6yq4ZyR4HUKo33Q=s96",
+      "url": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftINHM"
+    },
+	
+	
+	
+	
+																  {
+      "name": "Block Fortress",
+      "genre": "Action & Casual",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/Okr8sE4PGaC_jpUIA8P5xJwCP4q0j_stRHgwORjcnITiPCjkgAdf3jczPStOhB_z9ro=s96",
+      "url": "https://play.google.com/store/apps/details?id=com.foursakenmedia.blockfortressempires"
+    },
+	
+	
+	
+	
+																  {
+      "name": "BADLAND",
+      "genre": "Casual",
+      "paid": "f",
+      "image": "https://play-lh.googleusercontent.com/M6ApeE_fvuWhwZ1HzAEoD0IRfqDST7IfmpqvcJFiU7rqRoPX88Pehah9lprTG3j8IQ=s96",
+      "url": "https://play.google.com/store/apps/details?id=com.frogmind.badland"
+    },
+	
+	
+	
+
 	
 	
 	
