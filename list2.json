@@ -10,7 +10,7 @@
       "name": "AirAttack 2",
       "genre": "Arcade",
       "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/qvQ7LpXRzBBdmHg5QNpQTe6MIfjfnEzmSVjnomfk_6jWjjLjrWd53jX78L7oZLT8rG0=s360",
+      "image": "https://play-lh.googleusercontent.com/qvQ7LpXRzBBdmHg5QNpQTe6MIfjfnEzmSVjnomfk_6jWjjLjrWd53jX78L7oZLT8rG0=s96",
       "url": "https://play.google.com/store/apps/details?id=com.ArtInGames.AirAttack2f"
     },
     {
@@ -3268,13 +3268,7 @@
 	
 		
 	
-																  {
-      "name": "AirAttack 2",
-      "genre": "Arcade",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/qvQ7LpXRzBBdmHg5QNpQTe6MIfjfnEzmSVjnomfk_6jWjjLjrWd53jX78L7oZLT8rG0=s360",
-      "url": "https://play.google.com/store/apps/details?id=com.ArtInGames.AirAttack2f"
-    },
+																  
 	
 		
 	
@@ -3320,7 +3314,7 @@
 	
 																  {
       "name": "Annelids: Online battle",
-      "genre": "Action & Casual",
+      "genre": "Action",
       "paid": "f",
       "image": "https://play-lh.googleusercontent.com/RVK-xlaK7geBP30oq5Zju2veXluXnV8eC7SQSjGnwZcPYbS4e-ublidxBV55QmweDEY=s96",
       "url": "https://play.google.com/store/apps/details?id=cz.gdmt.AnnelidsDemo"
@@ -3330,7 +3324,7 @@
 	
 																  {
       "name": "Apple Knight",
-      "genre": "Action & Casual",
+      "genre": "Action",
       "paid": "f",
       "image": "https://play-lh.googleusercontent.com/oe8BIjTw2zcmqKMHcxajJy0Pv-5EmpYEG0aHRyvTI7yFRkVstQokNHkSFwYMZ8xYlQg=s96",
       "url": "https://play.google.com/store/apps/details?id=online.limitless.appleknight.free"
@@ -3418,7 +3412,7 @@
 	
 																  {
       "name": "Battle Tank",
-      "genre": "Action & Casual",
+      "genre": "Action",
       "paid": "f",
       "image": "https://play-lh.googleusercontent.com/2xblcCcJtlwtk5OHdrvQtqH5u0EckVwfev7Kp2U0fQqCw3-IWY10oWYkUTSV-jdtNWpP=s96",
       "url": "https://play.google.com/store/apps/details?id=com.spcomes.wnbattletank"
@@ -3462,7 +3456,7 @@
 	
 																  {
       "name": "Block Fortress",
-      "genre": "Action & Casual",
+      "genre": "Action",
       "paid": "f",
       "image": "https://play-lh.googleusercontent.com/Okr8sE4PGaC_jpUIA8P5xJwCP4q0j_stRHgwORjcnITiPCjkgAdf3jczPStOhB_z9ro=s96",
       "url": "https://play.google.com/store/apps/details?id=com.foursakenmedia.blockfortressempires"
@@ -3472,11 +3466,11 @@
 	
 	
 																  {
-      "name": "BADLAND",
-      "genre": "Casual",
-      "paid": "f",
-      "image": "https://play-lh.googleusercontent.com/M6ApeE_fvuWhwZ1HzAEoD0IRfqDST7IfmpqvcJFiU7rqRoPX88Pehah9lprTG3j8IQ=s96",
-      "url": "https://play.google.com/store/apps/details?id=com.frogmind.badland"
+      "name": "",
+      "genre": "",
+      "paid": "",
+      "image": "",
+      "url": ""
     },
 	
 	
